@@ -2,7 +2,7 @@ import React from 'react'
 
 const Features = () => {
   return (
-    <h1>Featurs</h1>
+    <h1>F</h1>
   )
 }
 
