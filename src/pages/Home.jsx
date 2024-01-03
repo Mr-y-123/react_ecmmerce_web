@@ -20,7 +20,7 @@ const Home = () => {
       <button type='button' onClick={handleClick}>click useEffect</button>
       {count}
     </div>
-    
+
   )
 }
 
