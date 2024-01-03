@@ -17,7 +17,7 @@ const Login = () => {
     <div>
       <h1>Login Form</h1>
       <form action="" onSubmit={handleSubmit(onSubmit)}>
-        <label htmlFor="">firstname</label>
+        <label htmlFor="">yogesh</label>
         <input
           type="text"
           name="firstname"
